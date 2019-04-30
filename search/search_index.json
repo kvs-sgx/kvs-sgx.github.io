@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Project: Authenticated high-performance key-value stores with SGX enclaves\n\n\nPeople\n\n\n\n\nFaculty: Dr. Yuzhe (Richard) Tang [\nwebpage\n]\n\n\nPhD:\n\n\nJu Chen [\nwebpage\n]\n\n\n\n\n\n\n\n\nPreliminary Results\n\n\n\n\n\"Authenticated Key-Value Stores based on LSM Trees with Hardware Enclaves\", Yuzhe (Richard) Tang, Ju Chen, Kai Li, Jianliang Xu, Qi Zhang. [\nTech. report 2019\n], [\nsrc\n].\n\n\n\n\nBroader Impact Activities\n\n\n\n\nPublic lecture\n: \"Get Your Head In The Clouds! Cloud Computing's Risks and Rewards\", at The Museum of Science and Technology at Syracuse, June 2017, [\nlink\n]", 
+            "text": "Project: Authenticated high-performance key-value stores with SGX enclaves\n\n\nPeople\n\n\n\n\nFaculty: Dr. Yuzhe (Richard) Tang [\nwebpage\n]\n\n\nPhD:\n\n\nJu Chen [\nwebpage\n]\n\n\nKai Li [\nwebpage\n]\n\n\n\n\n\n\n\n\nPreliminary Results\n\n\n\n\n\"Authenticated Key-Value Stores based on LSM Trees with Hardware Enclaves\", Yuzhe (Richard) Tang, Ju Chen, Kai Li, Jianliang Xu, Qi Zhang. [\nTech. report 2019\n], [\nsrc\n].\n\n\n\n\nBroader Impact Activities\n\n\n\n\nPublic lecture\n: \"Get Your Head In The Clouds! Cloud Computing's Risks and Rewards\", at The Museum of Science and Technology at Syracuse, June 2017, [\nlink\n]", 
             "title": "Project: Authenticated high-performance key-value stores with SGX enclaves"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#people", 
-            "text": "Faculty: Dr. Yuzhe (Richard) Tang [ webpage ]  PhD:  Ju Chen [ webpage ]", 
+            "text": "Faculty: Dr. Yuzhe (Richard) Tang [ webpage ]  PhD:  Ju Chen [ webpage ]  Kai Li [ webpage ]", 
             "title": "People"
         }, 
         {
